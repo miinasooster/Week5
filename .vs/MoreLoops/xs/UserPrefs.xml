@@ -1,0 +1,35 @@
+﻿<Properties StartupConfiguration="{0FA879FF-229A-4F02-A93A-5AC8073A056A}|Default">
+  <MonoDevelop.Ide.ItemProperties.ForLoop PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.OrOperator PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.ForLoopSum PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.DiceGame PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.1To10 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="DiceGame/Program.cs">
+    <Files>
+      <File FileName="LogInValidation/Program.cs" Line="16" Column="1" IsPinned="True" />
+      <File FileName="MoreLoops/Program.cs" Line="36" Column="1" />
+      <File FileName="OrOperator/Program.cs" Line="24" Column="54" />
+      <File FileName="ForLoop/Program.cs" Line="9" Column="13" />
+      <File FileName="1To10/Program.cs" Line="9" Column="13" />
+      <File FileName="10To1/Program.cs" Line="19" Column="1" />
+      <File FileName="ForLoopSum/Program.cs" Line="12" Column="13" />
+      <File FileName="DiceGame/Program.cs" Line="21" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="MoreLoops" expanded="True" />
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.MoreLoops PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.LogInValidation PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.10To1 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

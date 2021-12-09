@@ -1,0 +1,15 @@
+/Users/miinasooster/Projects/MoreLoops/1To10/obj/Debug/net5.0/1To10.csproj.AssemblyReference.cache
+/Users/miinasooster/Projects/MoreLoops/1To10/obj/Debug/net5.0/1To10.GeneratedMSBuildEditorConfig.editorconfig
+/Users/miinasooster/Projects/MoreLoops/1To10/obj/Debug/net5.0/1To10.AssemblyInfoInputs.cache
+/Users/miinasooster/Projects/MoreLoops/1To10/obj/Debug/net5.0/1To10.AssemblyInfo.cs
+/Users/miinasooster/Projects/MoreLoops/1To10/obj/Debug/net5.0/1To10.csproj.CoreCompileInputs.cache
+/Users/miinasooster/Projects/MoreLoops/1To10/bin/Debug/net5.0/1To10.deps.json
+/Users/miinasooster/Projects/MoreLoops/1To10/bin/Debug/net5.0/1To10.runtimeconfig.json
+/Users/miinasooster/Projects/MoreLoops/1To10/bin/Debug/net5.0/1To10.runtimeconfig.dev.json
+/Users/miinasooster/Projects/MoreLoops/1To10/bin/Debug/net5.0/1To10.dll
+/Users/miinasooster/Projects/MoreLoops/1To10/bin/Debug/net5.0/ref/1To10.dll
+/Users/miinasooster/Projects/MoreLoops/1To10/bin/Debug/net5.0/1To10.pdb
+/Users/miinasooster/Projects/MoreLoops/1To10/obj/Debug/net5.0/1To10.dll
+/Users/miinasooster/Projects/MoreLoops/1To10/obj/Debug/net5.0/ref/1To10.dll
+/Users/miinasooster/Projects/MoreLoops/1To10/obj/Debug/net5.0/1To10.pdb
+/Users/miinasooster/Projects/MoreLoops/1To10/obj/Debug/net5.0/1To10.genruntimeconfig.cache

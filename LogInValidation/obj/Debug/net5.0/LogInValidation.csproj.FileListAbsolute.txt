@@ -1,0 +1,15 @@
+/Users/miinasooster/Projects/MoreLoops/LogInValidation/bin/Debug/net5.0/LogInValidation.deps.json
+/Users/miinasooster/Projects/MoreLoops/LogInValidation/bin/Debug/net5.0/LogInValidation.runtimeconfig.json
+/Users/miinasooster/Projects/MoreLoops/LogInValidation/bin/Debug/net5.0/LogInValidation.runtimeconfig.dev.json
+/Users/miinasooster/Projects/MoreLoops/LogInValidation/bin/Debug/net5.0/LogInValidation.dll
+/Users/miinasooster/Projects/MoreLoops/LogInValidation/bin/Debug/net5.0/ref/LogInValidation.dll
+/Users/miinasooster/Projects/MoreLoops/LogInValidation/bin/Debug/net5.0/LogInValidation.pdb
+/Users/miinasooster/Projects/MoreLoops/LogInValidation/obj/Debug/net5.0/LogInValidation.csproj.AssemblyReference.cache
+/Users/miinasooster/Projects/MoreLoops/LogInValidation/obj/Debug/net5.0/LogInValidation.GeneratedMSBuildEditorConfig.editorconfig
+/Users/miinasooster/Projects/MoreLoops/LogInValidation/obj/Debug/net5.0/LogInValidation.AssemblyInfoInputs.cache
+/Users/miinasooster/Projects/MoreLoops/LogInValidation/obj/Debug/net5.0/LogInValidation.AssemblyInfo.cs
+/Users/miinasooster/Projects/MoreLoops/LogInValidation/obj/Debug/net5.0/LogInValidation.csproj.CoreCompileInputs.cache
+/Users/miinasooster/Projects/MoreLoops/LogInValidation/obj/Debug/net5.0/LogInValidation.dll
+/Users/miinasooster/Projects/MoreLoops/LogInValidation/obj/Debug/net5.0/ref/LogInValidation.dll
+/Users/miinasooster/Projects/MoreLoops/LogInValidation/obj/Debug/net5.0/LogInValidation.pdb
+/Users/miinasooster/Projects/MoreLoops/LogInValidation/obj/Debug/net5.0/LogInValidation.genruntimeconfig.cache

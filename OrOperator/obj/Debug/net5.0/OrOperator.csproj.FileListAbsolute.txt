@@ -1,0 +1,15 @@
+/Users/miinasooster/Projects/MoreLoops/OrOperator/obj/Debug/net5.0/OrOperator.csproj.AssemblyReference.cache
+/Users/miinasooster/Projects/MoreLoops/OrOperator/obj/Debug/net5.0/OrOperator.GeneratedMSBuildEditorConfig.editorconfig
+/Users/miinasooster/Projects/MoreLoops/OrOperator/obj/Debug/net5.0/OrOperator.AssemblyInfoInputs.cache
+/Users/miinasooster/Projects/MoreLoops/OrOperator/obj/Debug/net5.0/OrOperator.AssemblyInfo.cs
+/Users/miinasooster/Projects/MoreLoops/OrOperator/obj/Debug/net5.0/OrOperator.csproj.CoreCompileInputs.cache
+/Users/miinasooster/Projects/MoreLoops/OrOperator/bin/Debug/net5.0/OrOperator.deps.json
+/Users/miinasooster/Projects/MoreLoops/OrOperator/bin/Debug/net5.0/OrOperator.runtimeconfig.json
+/Users/miinasooster/Projects/MoreLoops/OrOperator/bin/Debug/net5.0/OrOperator.runtimeconfig.dev.json
+/Users/miinasooster/Projects/MoreLoops/OrOperator/bin/Debug/net5.0/OrOperator.dll
+/Users/miinasooster/Projects/MoreLoops/OrOperator/bin/Debug/net5.0/ref/OrOperator.dll
+/Users/miinasooster/Projects/MoreLoops/OrOperator/bin/Debug/net5.0/OrOperator.pdb
+/Users/miinasooster/Projects/MoreLoops/OrOperator/obj/Debug/net5.0/OrOperator.dll
+/Users/miinasooster/Projects/MoreLoops/OrOperator/obj/Debug/net5.0/ref/OrOperator.dll
+/Users/miinasooster/Projects/MoreLoops/OrOperator/obj/Debug/net5.0/OrOperator.pdb
+/Users/miinasooster/Projects/MoreLoops/OrOperator/obj/Debug/net5.0/OrOperator.genruntimeconfig.cache

@@ -1,0 +1,15 @@
+/Users/miinasooster/Projects/MoreLoops/ForLoop/bin/Debug/net5.0/ForLoop.deps.json
+/Users/miinasooster/Projects/MoreLoops/ForLoop/bin/Debug/net5.0/ForLoop.runtimeconfig.json
+/Users/miinasooster/Projects/MoreLoops/ForLoop/bin/Debug/net5.0/ForLoop.runtimeconfig.dev.json
+/Users/miinasooster/Projects/MoreLoops/ForLoop/bin/Debug/net5.0/ForLoop.dll
+/Users/miinasooster/Projects/MoreLoops/ForLoop/bin/Debug/net5.0/ref/ForLoop.dll
+/Users/miinasooster/Projects/MoreLoops/ForLoop/bin/Debug/net5.0/ForLoop.pdb
+/Users/miinasooster/Projects/MoreLoops/ForLoop/obj/Debug/net5.0/ForLoop.csproj.AssemblyReference.cache
+/Users/miinasooster/Projects/MoreLoops/ForLoop/obj/Debug/net5.0/ForLoop.GeneratedMSBuildEditorConfig.editorconfig
+/Users/miinasooster/Projects/MoreLoops/ForLoop/obj/Debug/net5.0/ForLoop.AssemblyInfoInputs.cache
+/Users/miinasooster/Projects/MoreLoops/ForLoop/obj/Debug/net5.0/ForLoop.AssemblyInfo.cs
+/Users/miinasooster/Projects/MoreLoops/ForLoop/obj/Debug/net5.0/ForLoop.csproj.CoreCompileInputs.cache
+/Users/miinasooster/Projects/MoreLoops/ForLoop/obj/Debug/net5.0/ForLoop.dll
+/Users/miinasooster/Projects/MoreLoops/ForLoop/obj/Debug/net5.0/ref/ForLoop.dll
+/Users/miinasooster/Projects/MoreLoops/ForLoop/obj/Debug/net5.0/ForLoop.pdb
+/Users/miinasooster/Projects/MoreLoops/ForLoop/obj/Debug/net5.0/ForLoop.genruntimeconfig.cache
